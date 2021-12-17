@@ -6,7 +6,7 @@
 [<img align="left" width="32px" src="/res/img/lang/css.png"/>](#)
 [<img align="left" width="32px" src="/res/img/lang/js.png"/>](#)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerialSniper&layout=compact&theme=dark&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerialSniper&layout=compact&theme=dark&hide_border=true&languages=6" />
 <br><br>
 
 ### IDEs I use
