@@ -7,7 +7,7 @@
 [<img align="left" width="32px" src="/res/img/lang/js.png"/>](#)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerialSniper&layout=compact&theme=dark&hide_border=true" />
-<br>
+<br><br>
 
 ### IDEs I use
 [<img align="left" width="32px" src="/res/img/ide/vs.png"/>](https://visualstudio.com)
