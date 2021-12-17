@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerialSniper&layout=compact&theme=dark&hide_border=true" />
 
-<!--
-**SerialSniper/SerialSniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages I know
+[<img align="left" width="32px" src="/res/img/lang/c.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/cpp.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/java.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/html.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/css.png"/>](#)
+[<img align="left" width="32px" src="/res/img/lang/js.png"/>](#)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### IDEs I use
+[<img align="left" width="32px" src="/res/img/ide/vs.png"/>](https://visualstudio.com)
+[<img align="left" width="32px" src="/res/img/ide/vsc.png"/>](https://code.visualstudio.com)
+[<img align="left" width="32px" src="/res/img/ide/idea.png"/>](https://jetbrains.com/idea/download)
