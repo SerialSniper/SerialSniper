@@ -1,4 +1,4 @@
-# SerialSniper - Professional Non-Professional Developer
+# SerialSniper
 
 ### Programming since 2014
 [<img align="left" width="32px" src="/res/img/lang/c.png"/>](#)
