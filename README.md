@@ -10,7 +10,7 @@
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opengl/opengl-plain.svg"/>
 
-<br><br><br>
+<br><br>
 
 <img align="left" width="32px" src="/res/img/ide/idea.png"/>
 <img align="left" width="32px" src="/res/img/ide/vs.png"/>
