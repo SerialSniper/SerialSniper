@@ -15,6 +15,8 @@
 <img align="left" width="32px" src="/res/img/ide/idea.png"/>
 <img align="left" width="32px" src="/res/img/ide/vs.png"/>
 <img align="left" width="32px" src="/res/img/ide/vsc.png"/>
+<img align="left" width="32px" src="/res/img/ide/postman.png"/>
+<img align="left" width="32px" src="/res/img/ide/supabase.png"/>
 
 <br><br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerialSniper&layout=compact&theme=dark&hide_border=true&languages=6" />
