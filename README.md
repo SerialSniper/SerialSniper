@@ -9,6 +9,7 @@
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"/>
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg"/>
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opengl/opengl-plain.svg"/>
+<img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
 
 <br><br>
 
