@@ -1,6 +1,6 @@
 # SerialSniper
 
-### Programming since 2014
+### Languages:
 <img align="left" width="32px" src="res/img/lang/nasm.png"/>
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg"/>
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg"/>
@@ -11,8 +11,9 @@
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opengl/opengl-plain.svg"/>
 <img align="left" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain-wordmark.svg"/>
 
-<br><br>
+<br>
 
+### Tools:
 <img align="left" width="32px" src="/res/img/ide/idea.png"/>
 <img align="left" width="32px" src="/res/img/ide/vs.png"/>
 <img align="left" width="32px" src="/res/img/ide/vsc.png"/>
